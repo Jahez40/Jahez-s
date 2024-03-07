@@ -1,0 +1,230 @@
+{
+  "Attachments": true,
+  "Progress": {
+    "completedLearningItems": [
+      {
+        "title": "learn.wwl.manage-apps-for-microsoft-teams.introduction",
+        "type": "unit",
+        "completedAt": "2024-03-04T18:13:58.1879176Z"
+      },
+      {
+        "title": "learn.wwl.manage-apps-for-microsoft-teams.explore-apps",
+        "type": "unit",
+        "completedAt": "2024-03-04T18:14:04.3421389Z"
+      },
+      {
+        "title": "learn.wwl.manage-apps-for-microsoft-teams.describe-admin-settings-teams-apps",
+        "type": "unit",
+        "completedAt": "2024-03-04T18:14:12.1141289Z"
+      },
+      {
+        "title": "learn.wwl.manage-apps-for-microsoft-teams.manage-app-settings-organization-level",
+        "type": "unit",
+        "completedAt": "2024-03-04T18:14:18.258138Z"
+      },
+      {
+        "title": "learn.wwl.manage-apps-for-microsoft-teams.create-manage-app-permission-policies",
+        "type": "unit",
+        "completedAt": "2024-03-04T18:14:26.0916237Z"
+      },
+      {
+        "title": "learn.wwl.manage-apps-for-microsoft-teams.create-manage-app-setup-policies",
+        "type": "unit",
+        "completedAt": "2024-03-04T18:14:43.2829588Z"
+      },
+      {
+        "title": "learn.wwl.manage-apps-for-microsoft-teams.app-consent",
+        "type": "unit",
+        "completedAt": "2024-03-04T18:14:56.0093188Z"
+      },
+      {
+        "title": "learn.wwl.manage-apps-for-microsoft-teams.teams-connectors",
+        "type": "unit",
+        "completedAt": "2024-03-04T18:15:05.159835Z"
+      },
+      {
+        "title": "learn.wwl.manage-apps-for-microsoft-teams.manage-custom-apps-uploads",
+        "type": "unit",
+        "completedAt": "2024-03-04T18:15:10.8052679Z"
+      },
+      {
+        "title": "learn.wwl.manage-apps-for-microsoft-teams.publish-custom-apps",
+        "type": "unit",
+        "completedAt": "2024-03-04T18:15:18.4840372Z"
+      }
+    ]
+  },
+  "NextSteps": null,
+  "XP": {
+    "xp": {
+      "docsId": "a12210c0-8fde-4384-9703-0d95bf7e8992",
+      "totalXp": 1000,
+      "currentLevel": 1,
+      "currentLevelLow": 0,
+      "currentLevelHigh": 1799,
+      "currentLevelPointsEarned": 1000,
+      "nextLevel": 2,
+      "pointsUntilNextLevel": 800,
+      "achievementCategories": {
+        "Unknown": 0,
+        "Modules": 0,
+        "Courses": 0,
+        "Qna": 0,
+        "Challenges": 0,
+        "Events": 0,
+        "LearningPaths": 0,
+        "Special": 0
+      }
+    },
+    "achievements": []
+  },
+  "Certifications": null,
+  "VerifiableCredentials": {
+    "docsId": "a12210c0-8fde-4384-9703-0d95bf7e8992",
+    "userCredentials": []
+  },
+  "Lists": {
+    "userId": "a12210c0-8fde-4384-9703-0d95bf7e8992",
+    "lists": [
+      {
+        "id": "bookmarks",
+        "userId": "a12210c0-8fde-4384-9703-0d95bf7e8992",
+        "name": "Bookmarks",
+        "description": "",
+        "type": "bookmarks",
+        "lastModified": "2024-03-04T18:13:35+00:00",
+        "totalItems": 1,
+        "items": [
+          {
+            "id": "bookmarks_docs-30A06FBFF13349766D940A3D892364DD",
+            "listId": "bookmarks",
+            "type": "docs",
+            "data": {
+              "url": "/training/modules/manage-apps-for-microsoft-teams/",
+              "rawUrl": "https://learn.microsoft.com/ar-sa/training/modules/manage-apps-for-microsoft-teams/",
+              "title": "Manage apps for Microsoft Teams - Training",
+              "docId": "0e5bb673-4044-8dfc-17cb-dc05969be9ad",
+              "docVIId": "b7f1fb4b-c035-afe1-1bc9-a22dcd4c87fa",
+              "pageType": "learn",
+              "pageKind": "module",
+              "uid": "learn.wwl.manage-apps-for-microsoft-teams",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2024-03-04T18:13:35+00:00"
+          }
+        ],
+        "itemCount": 1,
+        "sections": [],
+        "sectionCount": 0,
+        "isPrivate": false,
+        "isOfficial": false,
+        "shouldLocalize": false,
+        "isLocalized": false,
+        "isFallbackLocale": false,
+        "showUserDisplayName": false,
+        "moduleCount": 0,
+        "completedModuleCount": 0,
+        "remainingDuration": 0,
+        "totalDuration": 0
+      }
+    ],
+    "createdSkillingPlans": {
+      "userId": "a12210c0-8fde-4384-9703-0d95bf7e8992",
+      "skillingPlanFilter": 1,
+      "skillingPlans": [],
+      "count": 0
+    },
+    "createdLearnChallenges": {
+      "userId": "a12210c0-8fde-4384-9703-0d95bf7e8992",
+      "learnChallengeFilter": 0,
+      "challenges": [],
+      "count": 0
+    }
+  },
+  "SkillAssessment": null,
+  "Challenges": null,
+  "TechProfile": {
+    "email": "JAHEZ3@outlook.sa",
+    "locale": "ar-sa",
+    "country": "SA",
+    "contactPointTopicSetting": "OptInExplicit",
+    "gsi": false,
+    "isInstructor": false,
+    "isChallengeAdmin": false,
+    "isQnaModerator": false,
+    "source": "docs",
+    "authenticationModes": [
+      {
+        "id": "00037FFE69819131",
+        "type": "MSA",
+        "tenantId": "9188040d-6c67-4c5b-b112-36a304b66dad",
+        "upn": "jahez3@outlook.sa",
+        "oid": "00000000-0000-0000-3b21-e77d62acd492",
+        "dateAcceptedPrivacyNotice": "2024-02-16T20:03:05.3463484+00:00",
+        "dateAdded": "2024-02-16T20:03:05.3463485+00:00"
+      }
+    ],
+    "transcriptSettings": {
+      "publicLink": {
+        "showModules": true,
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      },
+      "print": {
+        "showModules": true,
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      }
+    },
+    "certificationSettings": {
+      "print": {
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      }
+    },
+    "qnaEmailPreferences": {
+      "allEmail": true,
+      "autoFollowAsked": true,
+      "autoFollowAnswered": true,
+      "autoFollowCommented": true,
+      "autoFollowTagged": true,
+      "emailEventSettings": {
+        "newMention": "instant",
+        "newModeration": "instant",
+        "answerPosted": "off",
+        "answerAccepted": "off",
+        "commentPosted": "off",
+        "newPrivateMessage": "instant",
+        "questionUpdated": "off",
+        "questionPosted": "off",
+        "unansweredQuestions": "off",
+        "newFollower": "off",
+        "answerUpdated": "off"
+      }
+    },
+    "sharingId": "166803B1386984BD",
+    "userId": "a12210c0-8fde-4384-9703-0d95bf7e8992",
+    "userName": "Jahez-2927",
+    "displayName": "Jahez406",
+    "isPrivate": false,
+    "affiliations": [],
+    "followerCount": 0,
+    "followingCount": 0,
+    "answersAccepted": 0,
+    "reputationPoints": 0,
+    "createdOn": "2/16/2024 8:03:05 PM"
+  },
+  "Assessments": null,
+  "Q&A": {
+    "docsId": "a12210c0-8fde-4384-9703-0d95bf7e8992",
+    "questions": [],
+    "answers": [],
+    "comments": []
+  }
+}
